@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922390596686",
+    "project_id": "shopping-admin-bc1ec",
+    "storage_bucket": "shopping-admin-bc1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922390596686:android:e12415c25736138852071f",
+        "android_client_info": {
+          "package_name": "com.example.shoppingadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqajkb9WojOcONCpVHUpWU_8DVeWNCqtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
